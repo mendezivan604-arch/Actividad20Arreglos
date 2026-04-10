@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Ejercicio #8");
+﻿Console.WriteLine("Ejercicio #10");
 int[] numeros = { 5, 7, 8, 8};
 int buscado;
 Console.Write("Ingrese el valor a contar: ");
